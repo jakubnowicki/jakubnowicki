@@ -11,6 +11,6 @@
 
 ---
 
-My name is Jakub and I'm an R Shiny developer working in Appsilon Data Science. I'm also a paleontologist focused on Cambian trilobites.
+My name is Jakub and I'm an R Shiny developer working in [Appsilon](https://appsilon.com). I'm also a paleontologist focused on Cambian trilobites.
 
 You can find me on [Twitter](https://twitter.com/q_nowicki), [LinkedIn](https://www.linkedin.com/in/jakub-nowicki) or [ResearchGate](https://www.researchgate.net/profile/Jakub_Nowicki).

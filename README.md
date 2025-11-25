@@ -14,3 +14,5 @@
 My name is Jakub and I'm an R Shiny developer working at [Appsilon](https://appsilon.com). I'm also a paleontologist focused on Cambian trilobites.
 
 You can find me on [Bluesky](https://bsky.app/profile/q-nowicki.bsky.social), [Mastodon](https://fosstodon.org/@q_nowicki), [LinkedIn](https://www.linkedin.com/in/jakub-nowicki) and [ResearchGate](https://www.researchgate.net/profile/Jakub_Nowicki).
+
+<a href="https://www.buymeacoffee.com/jnowicki" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
